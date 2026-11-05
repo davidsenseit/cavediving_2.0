@@ -1,0 +1,217 @@
+{
+  "version": "0.1.0",
+  "status": "draft",
+  "discovery_learning_version": "0.2.0",
+  "default_language": "learner_language",
+  "canonical_terminology": "English",
+  "scope": "open-circuit cave-diving theory",
+  "modules": [
+    {
+      "id": "01",
+      "title": "The exit is part of every decision",
+      "objective": "SAF-01",
+      "goal": "Explain why an overhead changes every limit.",
+      "path": "modules/01.md",
+      "activities": [
+        "01-A",
+        "01-B"
+      ],
+      "next": "02"
+    },
+    {
+      "id": "02",
+      "title": "Equipment as a working system",
+      "objective": "EQP-01",
+      "goal": "Identify useful redundancy and equipment dependencies.",
+      "path": "modules/02.md",
+      "activities": [
+        "02-A",
+        "02-B"
+      ],
+      "next": "03"
+    },
+    {
+      "id": "03",
+      "title": "Control protects visibility",
+      "objective": "CTL-01",
+      "goal": "Connect buoyancy, trim and propulsion to exit conditions.",
+      "path": "modules/03.md",
+      "activities": [
+        "03-A",
+        "03-B"
+      ],
+      "next": "04"
+    },
+    {
+      "id": "04",
+      "title": "Continuity before complexity",
+      "objective": "NAV-01",
+      "goal": "Distinguish line continuity from knowledge of exit direction.",
+      "path": "modules/04.md",
+      "activities": [
+        "04-A",
+        "04-B"
+      ],
+      "next": "05"
+    },
+    {
+      "id": "05",
+      "title": "Whose exit does that marker indicate?",
+      "objective": "NAV-02",
+      "goal": "Interpret markers and explain a proven return route.",
+      "path": "modules/05.md",
+      "activities": [
+        "05-A",
+        "05-B"
+      ],
+      "next": "06"
+    },
+    {
+      "id": "06",
+      "title": "From cylinder size to gas inventory",
+      "objective": "GAS-01",
+      "goal": "Convert between water capacity, pressure and free-gas litres.",
+      "path": "modules/06.md",
+      "activities": [
+        "06-A",
+        "06-B"
+      ],
+      "next": "07"
+    },
+    {
+      "id": "07",
+      "title": "Thirds, sixths and a readable turn pressure",
+      "objective": "GAS-02",
+      "goal": "Apply a stated fraction and round conservatively.",
+      "path": "modules/07.md",
+      "activities": [
+        "07-A",
+        "07-B"
+      ],
+      "next": "08"
+    },
+    {
+      "id": "08",
+      "title": "Matching equal equipment",
+      "objective": "GAS-03",
+      "goal": "Calculate equal-volume, equal-pressure team thresholds.",
+      "path": "modules/08.md",
+      "activities": [
+        "08-A",
+        "08-B"
+      ],
+      "next": "09"
+    },
+    {
+      "id": "09",
+      "title": "Same cylinders, different pressures",
+      "objective": "GAS-04",
+      "goal": "Match equal capacities with unequal starting pressures.",
+      "path": "modules/09.md",
+      "activities": [
+        "09-A",
+        "09-B"
+      ],
+      "next": "10"
+    },
+    {
+      "id": "10",
+      "title": "Different capacities, different pressures",
+      "objective": "GAS-05",
+      "goal": "Match gas in litres and identify limits of aggregate supply.",
+      "path": "modules/10.md",
+      "activities": [
+        "10-A",
+        "10-B"
+      ],
+      "next": "11"
+    },
+    {
+      "id": "11",
+      "title": "Consumption, depth and time",
+      "objective": "GAS-06",
+      "goal": "Convert measured pressure use into RMV and predict demand.",
+      "path": "modules/11.md",
+      "activities": [
+        "11-A",
+        "11-B"
+      ],
+      "next": "12"
+    },
+    {
+      "id": "12",
+      "title": "Does the donor actually have enough?",
+      "objective": "GAS-07",
+      "goal": "Test explicit shared-exit demand against either donor.",
+      "path": "modules/12.md",
+      "activities": [
+        "12-A",
+        "12-B"
+      ],
+      "next": "13"
+    },
+    {
+      "id": "13",
+      "title": "Gas choice and physiological limits",
+      "objective": "PHY-01",
+      "goal": "Separate oxygen, inert-gas and decompression constraints.",
+      "path": "modules/13.md",
+      "activities": [
+        "13-A",
+        "13-B"
+      ],
+      "next": "14"
+    },
+    {
+      "id": "14",
+      "title": "Recognising escalation and choosing an exit",
+      "objective": "EMG-01",
+      "goal": "Distinguish emergency problems and explain trained priorities.",
+      "path": "modules/14.md",
+      "activities": [
+        "14-A",
+        "14-B"
+      ],
+      "next": "15"
+    },
+    {
+      "id": "15",
+      "title": "Read the computer in context",
+      "objective": "INS-01",
+      "goal": "Distinguish displayed ascent estimates from cave-exit obligations.",
+      "path": "modules/15.md",
+      "activities": [
+        "15-A",
+        "15-B"
+      ],
+      "next": "16"
+    },
+    {
+      "id": "16",
+      "title": "Build and challenge the team plan",
+      "objective": "INT-01",
+      "goal": "Integrate limits, route, gas and practical boundaries.",
+      "path": "modules/16.md",
+      "activities": [
+        "16-A",
+        "16-B"
+      ],
+      "next": null
+    }
+  ],
+  "critical_objectives": [
+    "SAF-01",
+    "NAV-01",
+    "NAV-02",
+    "GAS-01",
+    "GAS-02",
+    "GAS-03",
+    "GAS-04",
+    "GAS-05",
+    "GAS-06",
+    "GAS-07",
+    "EMG-01",
+    "INS-01",
+    "INT-01"
+  ]
+}
