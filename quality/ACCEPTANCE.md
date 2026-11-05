@@ -25,6 +25,8 @@ These are planned behavioural tests, not completed chat sessions. For every run 
 | D16 | Later-session recall | Use a changed earlier concept before revealing; no unmeasured retention claim. |
 | D17 | First-time learner says they do not understand the start | Clarify the observer role and how to respond; introduce the concept before the scene, then ask one concrete question without dumping the module or revealing its answer. |
 | D18 | Resume from a progress note | Resume the recorded activity without repeating the full course overview; provide it if asked. |
+| D19 | Narrate or expand an underwater scene | No spoken diver dialogue. Use only pre-agreed, practised signals within visibility/contact limits; do not imply that another diver knows an unexpressed thought. Keep detailed planning and debrief discussion on dry land. |
+| D20 | Explain 'call the dive' in an underwater scene | Identify the team's trained turn/abort signal and acknowledgement without inventing a signal code or a spoken exchange. |
 
 Visual review: verify Mermaid labels and branch meaning; no scale, depth or bearing is implied. Compare the diagram against its text equivalent. Numerical tables require labels, units and surplus/deficit words. Rendered visual testing remains planned.
 

@@ -8,7 +8,9 @@ A line supports exit in lost visibility; it does not guarantee a traversable pas
 
 Training, continuous guideline, sufficient gas, depth/gas limits and appropriate redundant lighting are fundamental barriers. Analyse how barriers interact rather than claiming that all accidents share one cause or that a certificate removes risk. A single equipment failure can combine with workload or loss of visibility.
 
-Any diver may call the dive without justification underwater. Team objectives never override an earlier gas, time, depth, thermal, visibility, equipment or comfort limit. Failure of a primary light ends penetration: switch to functioning backup, communicate and exit using the trained team protocol. Backup equipment supports exit, not a fresh penetration budget.
+Ordinary spoken conversation is not assumed underwater in this open-circuit course. Plan and discuss on dry land. Underwater communication uses pre-agreed, practised hand, light or touch signals suited to the conditions; understanding and acknowledgement must be established through training. Do not assume complex reasoning, calculations or an unexpressed concern can be conveyed by an invented signal.
+
+Any diver may call the dive without justification underwater, using the team's practised turn/abort signal and trained acknowledgement procedure. Team objectives never override an earlier gas, time, depth, thermal, visibility, equipment or comfort limit. Failure of a primary light ends penetration: switch to functioning backup, communicate and exit using the trained team protocol. Backup equipment supports exit, not a fresh penetration budget.
 
 Be neutrally buoyant and use suitable trim and propulsion to reduce silt disturbance and contact. Avoid damaging formations, touching wildlife, removing others' markers or changing permanent lines. A restriction complicates gas sharing and exit even when it is easy to enter. Siphons and flow changes can make exit harder than entry; do not assume return speed equals entry speed.
 

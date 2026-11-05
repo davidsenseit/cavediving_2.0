@@ -13,6 +13,8 @@ The learner should explain barriers to a safe exit, identify equipment dependenc
 
 A fictional team, Mira and Leon, prepares and reconsiders a dive. Each module follows scene, exploration, consequence, explanation, worked application and continuation. A/B predictions are formative exploration. Mandatory subject insights remain identical regardless of branch. Present about one concept per turn and expand when asked; do not paste an entire module at once.
 
+Spoken dialogue belongs to a pre-dive briefing or post-dive debrief on dry land. Underwater action uses pre-agreed, practised hand, light or touch signals and the trained acknowledgement protocol, within visibility/contact limits. Narrated thoughts are the learner's view of a misconception, not information automatically shared between divers. The teaching agent speaks to the learner outside the underwater scene; it must not put that explanation into a diver's mouth or invent a signal that communicates it.
+
 A worked example precedes a new calculation type. Increase complexity by changing one variable: water capacity, pressure, allocation fraction, team mismatch, RMV, then exit delays. Navigation uses a conceptual network before compound route decisions. Do not make learners infer a safety rule solely from discovery.
 
 ## Memory design
