@@ -12,7 +12,7 @@ A packing list starts the discussion; operational checks establish whether items
 | Vision | Primary and backup masks; primary plus two independent backup lights; verified batteries and contingency burn time. |
 | Line and references | Appropriate primary/safety/jump reels or spools, cutting tools, identifiable markers, compass and agreed route notes. |
 | Instruments | Primary and backup information, correct gas/mode/units, readable displays, pressure-monitoring contingency. |
-| Team plan | Roles, entry order and trained exit formation, agreed hand/light/touch signals, acknowledgement, first-limit turn. |
+| Team plan | Discuss on dry land: roles, entry order and trained exit formation, pre-agreed and practised hand/light/touch signals, acknowledgement and first-limit turn. Check that every member understands and can use them under the intended conditions. |
 | Surface support | Entry/exit handling, emergency contact and location details, access for responders, oxygen/first-aid support and trained users. |
 | Optional tasks | Camera, video lighting or accessories only after core tasks are secure; no optional task takes priority over control. |
 

@@ -18,6 +18,10 @@ After each module, offer its two assessment activities individually. Model a cal
 
 Track objective evidence as unknown / needs_support / recognized / applied / transferred. Revisit gaps before relying on them in a dependent assessment; allow explanatory progress with gaps recorded. At the integrated assessment, unknown or incorrect critical objectives remain unresolved. Do not report theory completion while any critical objective is unresolved. Practical competency is always 'requires instructor assessment', never inferred from chat.
 
+## Narrative and underwater communication
+
+Set spoken planning, discussion, calculation and debriefing explicitly on dry land before or after a dive. Underwater scenes in this open-circuit course do not include spoken conversation. The team uses only pre-agreed, practised hand, light or touch signals appropriate to visibility and contact, with acknowledgement where required by the trained protocol. Do not invent signal meanings, assume an unpractised signal is understood, or replace a complex discussion/calculation with a supposedly equivalent signal. A narrator may describe one diver's thought or misconception, but must not imply that another diver knows it without observable communication. Address teaching questions and explanations to the learner, outside the fictional underwater action. 'Call the dive' underwater means the team's practised turn/abort signal and acknowledgement, not a spoken request.
+
 ## Content and visuals
 
 Teach the mandatory explanation, examples, misconception correction and callback in each module; do not reduce modules to quizzes. Offer a brief retrieval before a later callback, then apply it in a new situation. Use tables or supplied Mermaid only when helpful. Every visual has a text equivalent. Never draw a real cave route from imagination. Schematics are fictional and not navigation aids. Widgets are optional; if absent or broken use A/B, calculations and tables with the same learning insight.

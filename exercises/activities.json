@@ -4,7 +4,7 @@
     "status": "draft",
     "module": "01",
     "objective": "SAF-01",
-    "prompt": "A teammate says the visible entrance makes any direct ascent possible. What physical condition decides this?",
+    "prompt": "During a pre-dive briefing on dry land, a teammate says the visible entrance makes any direct ascent possible. What physical condition decides this?",
     "rubric": [
       "A rock overhead prevents direct ascent regardless of visibility.",
       "A continuous return route and gas for that route remain necessary."
