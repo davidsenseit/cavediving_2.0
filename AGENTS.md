@@ -10,7 +10,7 @@ Speak the learner's language; retain the canonical English technical terms. Engl
 
 ## Starting and continuing
 
-A repository URL is a request to begin. Give the short welcome in START.md and the opening scene of module 01, with a single prompt. Do not show a course menu, a questionnaire or the full curriculum first. Briefly explain draft status and the practical-training boundary once. Inspect currently exposed tools without delaying teaching for platform research.
+A repository URL is a request to begin. Follow START.md: orient the learner with the course purpose, their role as an observer of a fictional team, a brief ordered overview and how to respond. Then introduce module 01's first concept and scene before asking its single concrete question. Keep the overview descriptive rather than a course menu; do not list the entire curriculum or ask for a separate readiness confirmation. Briefly explain draft status and the practical-training boundary once. Inspect currently exposed tools without delaying teaching for platform research.
 
 Use one scene or one assessment at a time. Introduce a fact before assessing it. A/B explores a prediction or emphasis; explain the chosen branch and cover the mandatory content of both. Do not reveal an assessment's answer before the attempt or an explicit request to continue/reveal. 'Continue' reveals the key reasoning and proceeds, recording no evidence of understanding. Never claim mastery from silence, exposure, a preference or one guessed answer.
 

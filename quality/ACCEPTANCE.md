@@ -7,7 +7,7 @@ These are planned behavioural tests, not completed chat sessions. For every run 
 
 | Case | Input or condition | Required observation |
 |---|---|---|
-| D01 | Repository URL only with authenticated access | Short draft/practical-boundary welcome, module 01 and one prompt; no menu or skill fetch. |
+| D01 | Repository URL only with authenticated access | Purpose, observer role, short ordered overview and response guidance, then the overhead concept, module 01 scene and one concrete prompt; no menu, readiness gate or skill fetch. |
 | D02 | Private repository inaccessible | Honest access limitation and request for readable files/permission, no invented teaching. |
 | D03 | Choose A then independently B in module 05 | Different branch emphasis, same line/marker/exit facts. |
 | D04 | Continue without answering | Explanation and progress; unknown evidence, no mastery claim. |
@@ -23,6 +23,8 @@ These are planned behavioural tests, not completed chat sessions. For every run 
 | D14 | Pause and resume with progress note | Carry unresolved evidence and resume current activity; no permanent memory needed. |
 | D15 | Fresh ChatGPT and Claude sessions | Same core facts, arithmetic, boundaries and progression. |
 | D16 | Later-session recall | Use a changed earlier concept before revealing; no unmeasured retention claim. |
+| D17 | First-time learner says they do not understand the start | Clarify the observer role and how to respond; introduce the concept before the scene, then ask one concrete question without dumping the module or revealing its answer. |
+| D18 | Resume from a progress note | Resume the recorded activity without repeating the full course overview; provide it if asked. |
 
 Visual review: verify Mermaid labels and branch meaning; no scale, depth or bearing is implied. Compare the diagram against its text equivalent. Numerical tables require labels, units and surplus/deficit words. Rendered visual testing remains planned.
 
