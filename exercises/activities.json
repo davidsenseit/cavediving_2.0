@@ -1,0 +1,521 @@
+[
+  {
+    "id": "01-A",
+    "status": "draft",
+    "module": "01",
+    "objective": "SAF-01",
+    "prompt": "A teammate says the visible entrance makes any direct ascent possible. What physical condition decides this?",
+    "rubric": [
+      "A rock overhead prevents direct ascent regardless of visibility.",
+      "A continuous return route and gas for that route remain necessary."
+    ],
+    "misconception": "Visibility confused with physical access.",
+    "feedback": "Compare the answer to each rubric point. Explain the specific missed quantity, dependency or assumption; accept equivalent correct reasoning. A continuous return route and gas for that route remain necessary.",
+    "reveal_fallback": "If requested, explain every rubric point step by step, record unknown evidence, and continue.",
+    "callback": "Return obligation will reappear as explicit emergency gas demand in module 12.",
+    "evidence_required": "independent application/explanation; constrained choices alone show recognition"
+  },
+  {
+    "id": "01-B",
+    "status": "draft",
+    "module": "01",
+    "objective": "SAF-01",
+    "prompt": "A fictional team still has gas allowance but one diver calls the dive because of discomfort. Explain the team decision.",
+    "rubric": [
+      "Turn together without demanding justification underwater.",
+      "Remaining gas allowance is a ceiling, not a requirement to continue."
+    ],
+    "misconception": "Treating the landmark or gas allowance as an obligation.",
+    "feedback": "Compare the answer to each rubric point. Explain the specific missed quantity, dependency or assumption; accept equivalent correct reasoning. Remaining gas allowance is a ceiling, not a requirement to continue.",
+    "reveal_fallback": "If requested, explain every rubric point step by step, record unknown evidence, and continue.",
+    "callback": "Return obligation will reappear as explicit emergency gas demand in module 12.",
+    "evidence_required": "independent application/explanation; constrained choices alone show recognition"
+  },
+  {
+    "id": "02-A",
+    "status": "draft",
+    "module": "02",
+    "objective": "EQP-01",
+    "prompt": "Three lamps share one battery pack. Which single failure can defeat all three, and what does this reveal?",
+    "rubric": [
+      "Battery-pack failure can disable all three.",
+      "Counting lamps does not establish independent lighting redundancy."
+    ],
+    "misconception": "Counting components instead of failure dependencies.",
+    "feedback": "Compare the answer to each rubric point. Explain the specific missed quantity, dependency or assumption; accept equivalent correct reasoning. Counting lamps does not establish independent lighting redundancy.",
+    "reveal_fallback": "If requested, explain every rubric point step by step, record unknown evidence, and continue.",
+    "callback": "Recall the overhead return obligation before deciding what a backup must support. Revisit in module 14.",
+    "evidence_required": "independent application/explanation; constrained choices alone show recognition"
+  },
+  {
+    "id": "02-B",
+    "status": "draft",
+    "module": "02",
+    "objective": "EQP-01",
+    "prompt": "Two second stages share one first stage and one cylinder. Explain two dependencies the equipment count conceals.",
+    "rubric": [
+      "The first stage is a common dependency.",
+      "The cylinder/gas access is a common dependency; practical contingency needs the actual configuration and training."
+    ],
+    "misconception": "Assuming two mouthpieces mean independent supplies.",
+    "feedback": "Compare the answer to each rubric point. Explain the specific missed quantity, dependency or assumption; accept equivalent correct reasoning. The cylinder/gas access is a common dependency; practical contingency needs the actual configuration and training.",
+    "reveal_fallback": "If requested, explain every rubric point step by step, record unknown evidence, and continue.",
+    "callback": "Recall the overhead return obligation before deciding what a backup must support. Revisit in module 14.",
+    "evidence_required": "independent application/explanation; constrained choices alone show recognition"
+  },
+  {
+    "id": "03-A",
+    "status": "draft",
+    "module": "03",
+    "objective": "CTL-01",
+    "prompt": "A diver has stable depth but downward fins close to silt. Which controls remain unproven?",
+    "rubric": [
+      "Suitable trim and clearance are unproven.",
+      "Propulsion/fin wash may disturb silt even without bottom contact."
+    ],
+    "misconception": "Equating neutral buoyancy with complete control.",
+    "feedback": "Compare the answer to each rubric point. Explain the specific missed quantity, dependency or assumption; accept equivalent correct reasoning. Propulsion/fin wash may disturb silt even without bottom contact.",
+    "reveal_fallback": "If requested, explain every rubric point step by step, record unknown evidence, and continue.",
+    "callback": "Bring back equipment streamlining from module 02; reuse the slowed-exit consequence in module 12.",
+    "evidence_required": "independent application/explanation; constrained choices alone show recognition"
+  },
+  {
+    "id": "03-B",
+    "status": "draft",
+    "module": "03",
+    "objective": "CTL-01",
+    "prompt": "An out-and-back route is easy to enter but a narrow section slows gas-sharing exit. Name two planning consequences.",
+    "rubric": [
+      "Longer exit time can increase gas demand.",
+      "Restriction capability, communication and trained gas-sharing feasibility must be evaluated before entry."
+    ],
+    "misconception": "Assuming entry and assisted return are equivalent.",
+    "feedback": "Compare the answer to each rubric point. Explain the specific missed quantity, dependency or assumption; accept equivalent correct reasoning. Restriction capability, communication and trained gas-sharing feasibility must be evaluated before entry.",
+    "reveal_fallback": "If requested, explain every rubric point step by step, record unknown evidence, and continue.",
+    "callback": "Bring back equipment streamlining from module 02; reuse the slowed-exit consequence in module 12.",
+    "evidence_required": "independent application/explanation; constrained choices alone show recognition"
+  },
+  {
+    "id": "04-A",
+    "status": "draft",
+    "module": "04",
+    "objective": "NAV-01",
+    "prompt": "The permanent mainline is visible 4 m inside the cave but there is no connecting line from open water. Is visual access continuous guideline access?",
+    "rubric": [
+      "No: the unconnected space remains a gap in the tactile exit reference.",
+      "A suitable trained primary-line connection is needed where the route otherwise lacks continuity."
+    ],
+    "misconception": "Replacing continuous line with clear water.",
+    "feedback": "Compare the answer to each rubric point. Explain the specific missed quantity, dependency or assumption; accept equivalent correct reasoning. A suitable trained primary-line connection is needed where the route otherwise lacks continuity.",
+    "reveal_fallback": "If requested, explain every rubric point step by step, record unknown evidence, and continue.",
+    "callback": "Recall that clear water can change from module 01. Reuse continuity versus direction in modules 05 and 14.",
+    "evidence_required": "independent application/explanation; constrained choices alone show recognition"
+  },
+  {
+    "id": "04-B",
+    "status": "draft",
+    "module": "04",
+    "objective": "NAV-01",
+    "prompt": "A connected line reaches a T. What two independent questions must the team answer?",
+    "rubric": [
+      "Whether the route remains continuously connected to the proven exit.",
+      "Which branch leads along that proven return route; continuity alone does not answer direction."
+    ],
+    "misconception": "Treating line continuity as proof of correct direction.",
+    "feedback": "Compare the answer to each rubric point. Explain the specific missed quantity, dependency or assumption; accept equivalent correct reasoning. Which branch leads along that proven return route; continuity alone does not answer direction.",
+    "reveal_fallback": "If requested, explain every rubric point step by step, record unknown evidence, and continue.",
+    "callback": "Recall that clear water can change from module 01. Reuse continuity versus direction in modules 05 and 14.",
+    "evidence_required": "independent application/explanation; constrained choices alone show recognition"
+  },
+  {
+    "id": "05-A",
+    "status": "draft",
+    "module": "05",
+    "objective": "NAV-02",
+    "prompt": "At a fictional T, your known entry branch is south; a system arrow points north to an unverified exit. What does the arrow establish?",
+    "rubric": [
+      "It conveys directional system information, not proof of an accessible team exit.",
+      "Preserve and use the proven route/personal references and resolve the discrepancy with the team."
+    ],
+    "misconception": "Blindly following a system arrow.",
+    "feedback": "Compare the answer to each rubric point. Explain the specific missed quantity, dependency or assumption; accept equivalent correct reasoning. Preserve and use the proven route/personal references and resolve the discrepancy with the team.",
+    "reveal_fallback": "If requested, explain every rubric point step by step, record unknown evidence, and continue.",
+    "callback": "Retrieve continuity versus direction from module 04. Apply again in the integrated plan, module 16.",
+    "evidence_required": "independent application/explanation; constrained choices alone show recognition"
+  },
+  {
+    "id": "05-B",
+    "status": "draft",
+    "module": "05",
+    "objective": "NAV-02",
+    "prompt": "Compare a cookie, a REM and a system arrow, then explain why another team’s jump line cannot be your planned connection.",
+    "rubric": [
+      "Cookie is non-directional and depends on placement/protocol; REM is a personal directional reference; system arrow is directional system information.",
+      "Use an owned trained temporary connection; another team may remove its line and its references may serve a different exit."
+    ],
+    "misconception": "Treating all markers or temporary lines as interchangeable.",
+    "feedback": "Compare the answer to each rubric point. Explain the specific missed quantity, dependency or assumption; accept equivalent correct reasoning. Use an owned trained temporary connection; another team may remove its line and its references may serve a different exit.",
+    "reveal_fallback": "If requested, explain every rubric point step by step, record unknown evidence, and continue.",
+    "callback": "Retrieve continuity versus direction from module 04. Apply again in the integrated plan, module 16.",
+    "evidence_required": "independent application/explanation; constrained choices alone show recognition"
+  },
+  {
+    "id": "06-A",
+    "status": "draft",
+    "module": "06",
+    "objective": "GAS-01",
+    "prompt": "Accessible 2×10 L at equal 215 bar: calculate approximate inventory. Define both meanings of litres.",
+    "rubric": [
+      "Water capacity is 20 L; free-gas inventory is 20×215=4300 L.",
+      "The 4300 L is surface-equivalent ideal-gas approximation, not a deliverable-gas guarantee."
+    ],
+    "misconception": "Using one cylinder or confusing water capacity and free gas.",
+    "feedback": "Compare the answer to each rubric point. Explain the specific missed quantity, dependency or assumption; accept equivalent correct reasoning. The 4300 L is surface-equivalent ideal-gas approximation, not a deliverable-gas guarantee.",
+    "reveal_fallback": "If requested, explain every rubric point step by step, record unknown evidence, and continue.",
+    "callback": "Recall equipment gas availability from module 02; retrieve these conversions throughout modules 07–12.",
+    "evidence_required": "independent application/explanation; constrained choices alone show recognition"
+  },
+  {
+    "id": "06-B",
+    "status": "draft",
+    "module": "06",
+    "objective": "GAS-01",
+    "prompt": "960 surface-equivalent L are consumed from accessible 24 L twins. Calculate pressure drop. Then change capacity to 20 L.",
+    "rubric": [
+      "960/24=40 bar.",
+      "960/20=48 bar; the same litres give different bar drops."
+    ],
+    "misconception": "Multiplying rather than dividing litres by capacity.",
+    "feedback": "Compare the answer to each rubric point. Explain the specific missed quantity, dependency or assumption; accept equivalent correct reasoning. 960/20=48 bar; the same litres give different bar drops.",
+    "reveal_fallback": "If requested, explain every rubric point step by step, record unknown evidence, and continue.",
+    "callback": "Recall equipment gas availability from module 02; retrieve these conversions throughout modules 07–12.",
+    "evidence_required": "independent application/explanation; constrained choices alone show recognition"
+  },
+  {
+    "id": "07-A",
+    "status": "draft",
+    "module": "07",
+    "objective": "GAS-02",
+    "prompt": "Given 220 bar start, a one-sixth penetration constraint and 5 bar increments, calculate maximum rounded use and turn pressure.",
+    "rubric": [
+      "220/6=36.667 bar; permitted drop rounded down is 35 bar.",
+      "Turn pressure is 220−35=185 bar; a sixth is used inbound, not left at turn."
+    ],
+    "misconception": "Rounding permitted use upward or leaving only a sixth.",
+    "feedback": "Compare the answer to each rubric point. Explain the specific missed quantity, dependency or assumption; accept equivalent correct reasoning. Turn pressure is 220−35=185 bar; a sixth is used inbound, not left at turn.",
+    "reveal_fallback": "If requested, explain every rubric point step by step, record unknown evidence, and continue.",
+    "callback": "Retrieve litre conversion from module 06 before computing allowances. Revisit rounding at each matching stage.",
+    "evidence_required": "independent application/explanation; constrained choices alone show recognition"
+  },
+  {
+    "id": "07-B",
+    "status": "draft",
+    "module": "07",
+    "objective": "GAS-02",
+    "prompt": "Given 235 bar start and thirds with 5 bar increments, calculate the turn. Does this prove shared-exit adequacy?",
+    "rubric": [
+      "235/3=78.333 bar; round drop to 75 bar; turn=160 bar.",
+      "No: explicit failure/demand and usable-gas checks remain."
+    ],
+    "misconception": "Treating fraction arithmetic as an emergency proof.",
+    "feedback": "Compare the answer to each rubric point. Explain the specific missed quantity, dependency or assumption; accept equivalent correct reasoning. No: explicit failure/demand and usable-gas checks remain.",
+    "reveal_fallback": "If requested, explain every rubric point step by step, record unknown evidence, and continue.",
+    "callback": "Retrieve litre conversion from module 06 before computing allowances. Revisit rounding at each matching stage.",
+    "evidence_required": "independent application/explanation; constrained choices alone show recognition"
+  },
+  {
+    "id": "08-A",
+    "status": "draft",
+    "module": "08",
+    "objective": "GAS-03",
+    "prompt": "Two accessible 24 L supplies each start at 195 bar. Use thirds and 5 bar increments to find each common-budget turn pressure.",
+    "rubric": [
+      "Each Q=4680 L; B=1560 L; drop=65 bar.",
+      "Both thresholds are 130 bar; turn together at the first threshold or earlier limit."
+    ],
+    "misconception": "Choosing a landmark instead of a team limit.",
+    "feedback": "Compare the answer to each rubric point. Explain the specific missed quantity, dependency or assumption; accept equivalent correct reasoning. Both thresholds are 130 bar; turn together at the first threshold or earlier limit.",
+    "reveal_fallback": "If requested, explain every rubric point step by step, record unknown evidence, and continue.",
+    "callback": "Retrieve the module 01 return obligation and module 07 rounding. Vary starting pressure in module 09.",
+    "evidence_required": "independent application/explanation; constrained choices alone show recognition"
+  },
+  {
+    "id": "08-B",
+    "status": "draft",
+    "module": "08",
+    "objective": "GAS-03",
+    "prompt": "Same setup, but at a check A reads 130 bar and B 145 bar. What happens, and what does the difference reveal?",
+    "rubric": [
+      "Turn together because A has reached its threshold.",
+      "Consumption may differ even with equal starting gas; B’s surplus does not reset A’s allowance."
+    ],
+    "misconception": "Averaging pressures or waiting for both gauges.",
+    "feedback": "Compare the answer to each rubric point. Explain the specific missed quantity, dependency or assumption; accept equivalent correct reasoning. Consumption may differ even with equal starting gas; B’s surplus does not reset A’s allowance.",
+    "reveal_fallback": "If requested, explain every rubric point step by step, record unknown evidence, and continue.",
+    "callback": "Retrieve the module 01 return obligation and module 07 rounding. Vary starting pressure in module 09.",
+    "evidence_required": "independent application/explanation; constrained choices alone show recognition"
+  },
+  {
+    "id": "09-A",
+    "status": "draft",
+    "module": "09",
+    "objective": "GAS-04",
+    "prompt": "A has 24 L at 240 bar, B 24 L at 210 bar. Use the common-budget thirds method and 5 bar increments.",
+    "rubric": [
+      "Inventories 5760 and 5040 L; common budget 1680 L.",
+      "Equal drops 70 bar; turns A=170, B=140 bar."
+    ],
+    "misconception": "Setting identical turn pressures despite unequal starts.",
+    "feedback": "Compare the answer to each rubric point. Explain the specific missed quantity, dependency or assumption; accept equivalent correct reasoning. Equal drops 70 bar; turns A=170, B=140 bar.",
+    "reveal_fallback": "If requested, explain every rubric point step by step, record unknown evidence, and continue.",
+    "callback": "Recall module 06 inversion and module 07 rounding. Change capacity as well as pressure in module 10.",
+    "evidence_required": "independent application/explanation; constrained choices alone show recognition"
+  },
+  {
+    "id": "09-B",
+    "status": "draft",
+    "module": "09",
+    "objective": "GAS-04",
+    "prompt": "A has 24 L at 215 bar, B 24 L at 190 bar. Use common-budget thirds and 5 bar increments; show rounding.",
+    "rubric": [
+      "Smallest inventory 4560 L; budget=1520 L.",
+      "Drop=63.333→60 bar each; turns A=155, B=130 bar."
+    ],
+    "misconception": "Rounding 63.333 up or discarding actual start pressures.",
+    "feedback": "Compare the answer to each rubric point. Explain the specific missed quantity, dependency or assumption; accept equivalent correct reasoning. Drop=63.333→60 bar each; turns A=155, B=130 bar.",
+    "reveal_fallback": "If requested, explain every rubric point step by step, record unknown evidence, and continue.",
+    "callback": "Recall module 06 inversion and module 07 rounding. Change capacity as well as pressure in module 10.",
+    "evidence_required": "independent application/explanation; constrained choices alone show recognition"
+  },
+  {
+    "id": "10-A",
+    "status": "draft",
+    "module": "10",
+    "objective": "GAS-05",
+    "prompt": "A has accessible 24 L at 220 bar, B accessible 18 L at 200 bar. Match thirds at 5 bar increments.",
+    "rubric": [
+      "Inventories 5280/3600 L; B=1200 L.",
+      "A drop=50, turn=170 bar; B drop=66.667→65, turn=135 bar.",
+      "Implemented inbound uses 1200/1170 L both remain at or below the common budget."
+    ],
+    "misconception": "Matching bar instead of litres across capacities.",
+    "feedback": "Compare the answer to each rubric point. Explain the specific missed quantity, dependency or assumption; accept equivalent correct reasoning. Implemented inbound uses 1200/1170 L both remain at or below the common budget.",
+    "reveal_fallback": "If requested, explain every rubric point step by step, record unknown evidence, and continue.",
+    "callback": "Retrieve the common-dependency idea from module 02 and litre conversion from module 06. Use both in module 12.",
+    "evidence_required": "independent application/explanation; constrained choices alone show recognition"
+  },
+  {
+    "id": "10-B",
+    "status": "draft",
+    "module": "10",
+    "objective": "GAS-05",
+    "prompt": "Two independent 11 L cylinders read 200 and 180 bar. Find aggregate inventory, then explain why dividing by 22 L cannot describe every failure.",
+    "rubric": [
+      "Inventory=11×200+11×180=4180 L.",
+      "There is no single equal pressure; individual usability and failure/access matter.",
+      "If one cylinder is inaccessible, only the actually usable cylinder gas may be counted."
+    ],
+    "misconception": "Averaging away per-cylinder failure constraints.",
+    "feedback": "Compare the answer to each rubric point. Explain the specific missed quantity, dependency or assumption; accept equivalent correct reasoning. If one cylinder is inaccessible, only the actually usable cylinder gas may be counted.",
+    "reveal_fallback": "If requested, explain every rubric point step by step, record unknown evidence, and continue.",
+    "callback": "Retrieve the common-dependency idea from module 02 and litre conversion from module 06. Use both in module 12.",
+    "evidence_required": "independent application/explanation; constrained choices alone show recognition"
+  },
+  {
+    "id": "11-A",
+    "status": "draft",
+    "module": "11",
+    "objective": "GAS-06",
+    "prompt": "Accessible 20 L, 24 bar used over 10 min at constant 10 m and sea level. Calculate RMV.",
+    "rubric": [
+      "Used gas=480 L; ambient ratio=2.",
+      "RMV=480/(2×10)=24 surface-equivalent L/min."
+    ],
+    "misconception": "Failing to normalize to surface pressure.",
+    "feedback": "Compare the answer to each rubric point. Explain the specific missed quantity, dependency or assumption; accept equivalent correct reasoning. RMV=480/(2×10)=24 surface-equivalent L/min.",
+    "reveal_fallback": "If requested, explain every rubric point step by step, record unknown evidence, and continue.",
+    "callback": "Retrieve pressure-to-litres from module 06. Reuse RMV in the response-delay case in module 12.",
+    "evidence_required": "independent application/explanation; constrained choices alone show recognition"
+  },
+  {
+    "id": "11-B",
+    "status": "draft",
+    "module": "11",
+    "objective": "GAS-06",
+    "prompt": "RMV 18 L/min, 20 m constant depth, accessible 24 L. Find demand for 8 min and the pressure drop.",
+    "rubric": [
+      "A=3; Q=18×3×8=432 L.",
+      "Drop=432/24=18 bar; this measured RMV is not automatically emergency RMV."
+    ],
+    "misconception": "Using surface consumption without a depth multiplier.",
+    "feedback": "Compare the answer to each rubric point. Explain the specific missed quantity, dependency or assumption; accept equivalent correct reasoning. Drop=432/24=18 bar; this measured RMV is not automatically emergency RMV.",
+    "reveal_fallback": "If requested, explain every rubric point step by step, record unknown evidence, and continue.",
+    "callback": "Retrieve pressure-to-litres from module 06. Reuse RMV in the response-delay case in module 12.",
+    "evidence_required": "independent application/explanation; constrained choices alone show recognition"
+  },
+  {
+    "id": "12-A",
+    "status": "draft",
+    "module": "12",
+    "objective": "GAS-07",
+    "prompt": "Hypothetical emergency RMVs 25 and 35 L/min already include stress. Constant 10 m, 3-minute response plus 15-minute travel to cave mouth. Find demand and check donors of 24 L at 120 bar and 20 L at 120 bar. Ascent/residual are excluded.",
+    "rubric": [
+      "Demand=60×2×18=2160 L.",
+      "Donor inventories 2880/2400 L give nominal surpluses 720/240 L; check both.",
+      "Excluded ascent/residual, usable-gas constraints and changed conditions prevent real-plan approval."
+    ],
+    "misconception": "Checking only the larger donor or omitting response time.",
+    "feedback": "Compare the answer to each rubric point. Explain the specific missed quantity, dependency or assumption; accept equivalent correct reasoning. Excluded ascent/residual, usable-gas constraints and changed conditions prevent real-plan approval.",
+    "reveal_fallback": "If requested, explain every rubric point step by step, record unknown evidence, and continue.",
+    "callback": "Retrieve slowed exit from module 03 and gas accessibility from module 10. Transfer both to module 16.",
+    "evidence_required": "independent application/explanation; constrained choices alone show recognition"
+  },
+  {
+    "id": "12-B",
+    "status": "draft",
+    "module": "12",
+    "objective": "GAS-07",
+    "prompt": "Same RMVs/depth/donors as 12-A, but travel is 20 min plus 3 min response. Identify the limiting donor and shortfall.",
+    "rubric": [
+      "Demand=60×2×23=2760 L.",
+      "24 L donor has 120 L nominal surplus; 20 L donor is short by 360 L.",
+      "Scenario fails the smaller-donor check even before ascent/residual."
+    ],
+    "misconception": "Averaging two donors instead of checking each failure direction.",
+    "feedback": "Compare the answer to each rubric point. Explain the specific missed quantity, dependency or assumption; accept equivalent correct reasoning. Scenario fails the smaller-donor check even before ascent/residual.",
+    "reveal_fallback": "If requested, explain every rubric point step by step, record unknown evidence, and continue.",
+    "callback": "Retrieve slowed exit from module 03 and gas accessibility from module 10. Transfer both to module 16.",
+    "evidence_required": "independent application/explanation; constrained choices alone show recognition"
+  },
+  {
+    "id": "13-A",
+    "status": "draft",
+    "module": "13",
+    "objective": "PHY-01",
+    "prompt": "Given only for arithmetic: EAN36, stipulated ppO2 limit 1.4 bar and sea-level approximation. Find MOD, rounding no deeper than the exact limit to whole metres.",
+    "rubric": [
+      "MOD=10×(1.4/0.36−1)=28.889 m; whole-metre bound 28 m.",
+      "Oxygen MOD alone does not authorize depth or establish complete exposure safety."
+    ],
+    "misconception": "Rounding deeper or treating MOD as certification.",
+    "feedback": "Compare the answer to each rubric point. Explain the specific missed quantity, dependency or assumption; accept equivalent correct reasoning. Oxygen MOD alone does not authorize depth or establish complete exposure safety.",
+    "reveal_fallback": "If requested, explain every rubric point step by step, record unknown evidence, and continue.",
+    "callback": "Recall multiple independent turn limits from module 08. Reuse NDL versus exit time in module 15.",
+    "evidence_required": "independent application/explanation; constrained choices alone show recognition"
+  },
+  {
+    "id": "13-B",
+    "status": "draft",
+    "module": "13",
+    "objective": "PHY-01",
+    "prompt": "A diver develops unusual neurological symptoms after a dive whose computer showed no violation. Explain the appropriate decision at the course level.",
+    "rubric": [
+      "A compliant computer profile cannot rule out serious diving injury.",
+      "Activate emergency medical help/diving-medical advice promptly; use trained first-aid/oxygen protocols rather than chat diagnosis or in-water recompression."
+    ],
+    "misconception": "Dismissing symptoms because the model stayed within limits.",
+    "feedback": "Compare the answer to each rubric point. Explain the specific missed quantity, dependency or assumption; accept equivalent correct reasoning. Activate emergency medical help/diving-medical advice promptly; use trained first-aid/oxygen protocols rather than chat diagnosis or in-water recompression.",
+    "reveal_fallback": "If requested, explain every rubric point step by step, record unknown evidence, and continue.",
+    "callback": "Recall multiple independent turn limits from module 08. Reuse NDL versus exit time in module 15.",
+    "evidence_required": "independent application/explanation; constrained choices alone show recognition"
+  },
+  {
+    "id": "14-A",
+    "status": "draft",
+    "module": "14",
+    "objective": "EMG-01",
+    "prompt": "Classify: A retains line but cannot see; B can see but cannot locate line; C retains line but cannot locate teammate. Why is one generic search recipe inadequate?",
+    "rubric": [
+      "A is loss of visibility with line reference; B is lost line; C is lost diver.",
+      "Each has a different reference/team problem and needs its trained procedure with gas/exit constraints."
+    ],
+    "misconception": "Treating loss of visibility, line and diver as the same problem.",
+    "feedback": "Compare the answer to each rubric point. Explain the specific missed quantity, dependency or assumption; accept equivalent correct reasoning. Each has a different reference/team problem and needs its trained procedure with gas/exit constraints.",
+    "reveal_fallback": "If requested, explain every rubric point step by step, record unknown evidence, and continue.",
+    "callback": "Retrieve equipment independence from module 02, continuity from module 04 and response delay from module 12.",
+    "evidence_required": "independent application/explanation; constrained choices alone show recognition"
+  },
+  {
+    "id": "14-B",
+    "status": "draft",
+    "module": "14",
+    "objective": "EMG-01",
+    "prompt": "A primary light fails before the planned destination. Both backups work. Explain the purpose of the backups and the team decision.",
+    "rubric": [
+      "Use functioning backup, communicate and end penetration for a trained coordinated exit.",
+      "Backups support return; having two does not create permission to continue the objective."
+    ],
+    "misconception": "Spending redundancy as a new inward allowance.",
+    "feedback": "Compare the answer to each rubric point. Explain the specific missed quantity, dependency or assumption; accept equivalent correct reasoning. Backups support return; having two does not create permission to continue the objective.",
+    "reveal_fallback": "If requested, explain every rubric point step by step, record unknown evidence, and continue.",
+    "callback": "Retrieve equipment independence from module 02, continuity from module 04 and response delay from module 12.",
+    "evidence_required": "independent application/explanation; constrained choices alone show recognition"
+  },
+  {
+    "id": "15-A",
+    "status": "draft",
+    "module": "15",
+    "objective": "INS-01",
+    "prompt": "A fictional screen says NDL 12 min, TTS 4 min; horizontal return estimate is 15 min. Explain why TTS is not an exit deadline or guarantee.",
+    "rubric": [
+      "TTS models ascent/stops and does not include horizontal cave return.",
+      "NDL is modelled no-deco time, not cave time; TTS can change during the return."
+    ],
+    "misconception": "Freezing current instrument predictions into a complete cave-exit model.",
+    "feedback": "Compare the answer to each rubric point. Explain the specific missed quantity, dependency or assumption; accept equivalent correct reasoning. NDL is modelled no-deco time, not cave time; TTS can change during the return.",
+    "reveal_fallback": "If requested, explain every rubric point step by step, record unknown evidence, and continue.",
+    "callback": "Retrieve physiological limits from module 13 and the omitted ascent demand in module 12. Integrate them in module 16.",
+    "evidence_required": "independent application/explanation; constrained choices alone show recognition"
+  },
+  {
+    "id": "15-B",
+    "status": "draft",
+    "module": "15",
+    "objective": "INS-01",
+    "prompt": "After a device update a preset name looks familiar. What must be checked before relying on it, and why is the course not a settings recommendation?",
+    "rubric": [
+      "Actual firmware, operating mode, gas, units, relevant settings and display/alerts must be verified at the surface.",
+      "Defaults can change; provided version examples do not establish current settings or personal gradient factors."
+    ],
+    "misconception": "Assuming identical preset names guarantee identical underlying settings.",
+    "feedback": "Compare the answer to each rubric point. Explain the specific missed quantity, dependency or assumption; accept equivalent correct reasoning. Defaults can change; provided version examples do not establish current settings or personal gradient factors.",
+    "reveal_fallback": "If requested, explain every rubric point step by step, record unknown evidence, and continue.",
+    "callback": "Retrieve physiological limits from module 13 and the omitted ascent demand in module 12. Integrate them in module 16.",
+    "evidence_required": "independent application/explanation; constrained choices alone show recognition"
+  },
+  {
+    "id": "16-A",
+    "status": "draft",
+    "module": "16",
+    "objective": "INT-01",
+    "prompt": "Use the integrated case in module 16. Explain a brief that covers route, matching, both donor checks and omitted demands.",
+    "rubric": [
+      "Known return route, owned continuous connection and personal exit references.",
+      "Thresholds 170/140 bar from common budget 1400 L and first-limit turn rule.",
+      "Both donor directions checked; shorter case 2100 L, smaller donor 2800 L nominal.",
+      "Ascent, residual, usability, conditions and practical assessment remain explicit."
+    ],
+    "misconception": "Equating a correct turn calculation with a complete plan.",
+    "feedback": "Compare the answer to each rubric point. Explain the specific missed quantity, dependency or assumption; accept equivalent correct reasoning. Ascent, residual, usability, conditions and practical assessment remain explicit.",
+    "reveal_fallback": "If requested, explain every rubric point step by step, record unknown evidence, and continue.",
+    "callback": "Retrieve continuity/direction, gas units, rounding and separate emergency demand without rereading worked answers first.",
+    "evidence_required": "independent application/explanation; constrained choices alone show recognition"
+  },
+  {
+    "id": "16-B",
+    "status": "draft",
+    "module": "16",
+    "objective": "INT-01",
+    "prompt": "In module 16, travel increases from 12 to 18 min while response stays 2 min. Reassess the smaller donor and the readiness claim.",
+    "rubric": [
+      "D=60×2.5×20=3000 L; smaller donor 2800 L is short 200 L.",
+      "The scenario fails even before omissions; change/reduce the plan rather than approve it.",
+      "Chat theory does not demonstrate practical competence or authorize a dive."
+    ],
+    "misconception": "Ignoring a changed assumption after a previously successful calculation.",
+    "feedback": "Compare the answer to each rubric point. Explain the specific missed quantity, dependency or assumption; accept equivalent correct reasoning. Chat theory does not demonstrate practical competence or authorize a dive.",
+    "reveal_fallback": "If requested, explain every rubric point step by step, record unknown evidence, and continue.",
+    "callback": "Retrieve continuity/direction, gas units, rounding and separate emergency demand without rereading worked answers first.",
+    "evidence_required": "independent application/explanation; constrained choices alone show recognition"
+  }
+]
